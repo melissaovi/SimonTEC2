@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/melissaovi/SimonTEC2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-
 
 # SimonTec
-## Header 2
+## Descripción
+###SimonTec es un juego de memoria que consiste en un círculo compuesto de cuatro cuadrantes, cada
+uno con un color: verde, rojo, azul y amarillo (ver figura 1). El juego de forma aleatoria va iluminando los
+cuadrantes de colores. Después de esperar, el usuario debe ir introduciendo la secuencia mostrada en el
+orden correcto. Si lo consigue, este responderá con una secuencia más larga, y así sucesivamente. Si
+falla, perderá el juego y deberá empezar de nuevo.
+
+#Planificación y administración del proyecto
+###Link de jira: 
+
+#Historias de usuario
 
 
 - Bulleted
