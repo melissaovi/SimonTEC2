@@ -11,7 +11,7 @@ falla, perderá el juego y deberá empezar de nuevo.
 ###Link de jira: 
 
 #Historias de usuario
--Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
+- Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
 - Como usuario: quiero ver la secuencia de colores iluminandose.
 - Como usuario: quiero introducir la secuencia.
 - Como usuario: quiero ver el nivel en el que estoy.
@@ -31,12 +31,10 @@ falla, perderá el juego y deberá empezar de nuevo.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissaovi/SimonTEC2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
