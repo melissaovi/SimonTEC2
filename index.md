@@ -12,6 +12,11 @@ falla, perderá el juego y deberá empezar de nuevo.
 
 #Historias de usuario
 -Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
+- Como usuario: quiero ver la secuencia de colores iluminandose.
+- Como usuario: quiero introducir la secuencia.
+- Como usuario: quiero ver el nivel en el que estoy.
+- Como usuario: quiero tener niveles de dificultad.
+- 
 
 
 
