@@ -11,6 +11,8 @@ falla, perderá el juego y deberá empezar de nuevo.
 ###Link de jira: 
 
 #Historias de usuario
+-Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
+
 
 
 - Bulleted
