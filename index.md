@@ -8,7 +8,7 @@ orden correcto. Si lo consigue, este responderá con una secuencia más larga, y
 falla, perderá el juego y deberá empezar de nuevo.
 
 # Planificación y administración del proyecto
-Link de jira con el plan de iteraciones: https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/SM/boards/3
+Link de jira con el plan de iteraciones:[SimonTEC2](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/SM/boards/3) 
 
 #Historias de usuario
 - Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
