@@ -36,6 +36,8 @@ Se refiere a los features mínimos que hacen que el programa sea funcional.
 - Como desarrollador quiero que se pueda ingresar la secuencia.
 
 
+***Diagrama de Clases***
+![SpaceInvaders](https://user-images.githubusercontent.com/62964806/116769835-0111f300-a9f4-11eb-886c-a0e6f1ba3804.jpeg)
 
 
 
