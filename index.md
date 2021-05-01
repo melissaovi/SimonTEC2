@@ -1,14 +1,14 @@
 
 # SimonTec
 ## Descripción
-###SimonTec es un juego de memoria que consiste en un círculo compuesto de cuatro cuadrantes, cada
+SimonTec es un juego de memoria que consiste en un círculo compuesto de cuatro cuadrantes, cada
 uno con un color: verde, rojo, azul y amarillo (ver figura 1). El juego de forma aleatoria va iluminando los
 cuadrantes de colores. Después de esperar, el usuario debe ir introduciendo la secuencia mostrada en el
 orden correcto. Si lo consigue, este responderá con una secuencia más larga, y así sucesivamente. Si
 falla, perderá el juego y deberá empezar de nuevo.
 
-#Planificación y administración del proyecto
-###Link de jira con el plan de iteraciones: 
+# Planificación y administración del proyecto
+Link de jira con el plan de iteraciones: 
 
 #Historias de usuario
 - Como usuario: quiero poder ver la pantalla del juego con el disco y sus cuadrantes.
